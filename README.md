@@ -84,7 +84,7 @@ The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)*
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-analytics.git
+git clone https://github.com/JavieraAlmendrasVilla/Customer-Segmentation.git
 ```
 
 2. Install dependencies:
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 3. Run the notebook:
 
 ```bash
-jupyter notebook Customer_Analytics.ipynb
+jupyter notebook customer_segmentation.ipynb
 ```
 
 ---
