@@ -49,7 +49,8 @@ The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)*
      * **Middle Class**
      * **Inactive**
 
-  ![clusters](https://raw.githubcontent/JavieraAlmendrasVilla/Customer-Segmentation/main/customer_segments_3d.png)
+  ![clusters](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Customer-Segmentation/main/customer_segments_3d.png
+)
 
 2. **KPIs Computed per Segment**
 
