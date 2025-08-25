@@ -45,9 +45,9 @@ The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)*
    * Applied **log transformation** and **standard scaling**
    * Used **KMeans clustering** to identify 3 segments:
 
-     * **VIP**
-     * **Middle Class**
-     * **Inactive**
+     * **VIP** (Blue)
+     * **Middle Class** (Turquoise)
+     * **Inactive** (Brow)
 
   ![clusters](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Customer-Segmentation/main/customer_segments_3d.png
 )
