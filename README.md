@@ -6,7 +6,7 @@ This project demonstrates the development of an **unsupervised ML algorithm** th
 
 The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)** and was developed and deployed as a **proof-of-concept in one day**.
 
----
+
 
 ## Dataset
 
