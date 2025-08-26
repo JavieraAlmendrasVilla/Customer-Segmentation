@@ -61,7 +61,8 @@ The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)*
    * **Segment Size**
    * **Revenue Contribution (%)**
 
-See the entire Dashboard on [Tableau](https://public.tableau.com/views/CustomerSegmentationAnalysis_17562205666720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+See the Analytics Dashboard on [Tableau](https://public.tableau.com/views/CustomerSegmentationAnalysis_17562205666720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Key Findings
