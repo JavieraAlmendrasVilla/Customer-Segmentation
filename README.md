@@ -125,7 +125,3 @@ This project demonstrates the ability to:
 * Visualize results clearly for stakeholders
 
 ---
-
-If you want, I can **also add a compact “Key Results & Figures” section** in the README with **charts and KPIs embedded**, so your GitHub page looks visually appealing.
-
-Do you want me to do that next?
