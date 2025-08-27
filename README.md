@@ -47,7 +47,7 @@ The platform uses the **Online Retail Dataset (UCI Machine Learning Repository)*
 
      * **VIP** (Blue)
      * **Middle Class** (Turquoise)
-     * **Inactive** (Brow)
+     * **Inactive** (Brown)
 
   ![clusters](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Customer-Segmentation/main/customer_segments_3d.png
 )
